@@ -13,7 +13,7 @@ eingehenden Reiseberichts selbst zu übernehmen, und da es auch meinen
 Reisegefährten ans verschiedenen Gründen nicht möglich war, sich damit zu
 befassen, bat ich Herrn Dr. F. De Filippi, der sich schon bei einer meiner
 früheren Reisen, an der er teilgenommen hatte, als gewissenhafter Erzähler
-erwiesen hatte, auf Grund meiner eigenen und meiner Gefährten Aufzeichunngen die
+erwiesen hatte, auf Grund meiner eigenen und meiner Gefährten Aufzeichnungen die
 Herausgabe meines Berichtes über die Erforschung des Ruwenzori zu besorgen.
 
 Wenn ihm auch die prächtigen Photographien Vittorio Sellas zur Verfügung
@@ -44,18 +44,18 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 
 ## Abbildungen.
 * [Bujukusee mit dem Stanley](ch001.xhtml#b000) (Titelbild)
-* Wagandatrommler
-* Elfenbeinkarawane in Uganda
-* Eingeborenenhütte in Uganda
-* Karawane in Uganda
-* Wagaudaträger.
-* Trägerhütte.
-* Europäerlager.
-* Wagandahäuptling mit seiner Familie
-* Töchter eines Häuptlings in Uganda aus Wahimastamm
-* Bananenpflanzung und Eingeborenenhütte bei Fort Portal  (Separatbild)
-* Eingeborenenmarkt in Uganda.
-* Weihrauchbaum
+* [Wagandatrommler](ch003.xhtml#b003)
+* [Elfenbeinkarawane in Uganda](ch003.xhtml#b005)
+* [Eingeborenenhütte in Uganda](ch003.xhtml#b007)
+* [Karawane in Uganda](ch003.xhtml#b009)
+* [Wagandaträger](ch003.xhtml#b011)
+* [Trägerhütte](ch003.xhtml#b012)
+* [Europäerlager](ch003.xhtml#b013)
+* [Wagandahäuptling mit seiner Familie](ch003.xhtml#b015)
+* [Töchter eines Häuptlings in Uganda aus Wahimastamm](ch003.xhtml#b016)
+* [Bananenpflanzung und Eingeborenenhütte bei Fort Portal](ch003.xhtml#b017)  (Separatbild)
+* [Eingeborenenmarkt in Uganda](ch003.xhtml#b019)
+* [Weihrauchbaum](ch003.xhtml#b023)
 * Station der Ugandabahn
 * Der Hafen Kilindini in Mombasa
 * Portugiesenfort in Mombasa
