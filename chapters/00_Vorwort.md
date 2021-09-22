@@ -56,32 +56,32 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Bananenpflanzung und Eingeborenenhütte bei Fort Portal](ch003.xhtml#b017)  (Separatbild)
 * [Eingeborenenmarkt in Uganda](ch003.xhtml#b019)
 * [Weihrauchbaum](ch003.xhtml#b023)
-* Station der Ugandabahn
-* Der Hafen Kilindini in Mombasa
-* Portugiesenfort in Mombasa
-* Im tropischen Urwald (Separatbild)
-* An der Ugandabahn
-* Zuckerrohrverkäufer
-* Aufenthalt auf einer Station
-* Port Florence
-* Dampfer Winifred am Molo in Port Florence
-* Eingeborene auf dem Wege zum Markte in Kisumu
-* Schutzdach auf dem Markt in Kisumu
-* Kavirondofrauen
-* Markt in Kisumu
-* Markt in Kisumu
-* Auf dem Markte in Kisumu
-* Bananenverkäufer auf dem Markte in Kisumu
-* Auf dem Viktoriasee, bei der Insel Rusinga
-* Eingeborenenboote mit dem Friedenszeichen
-* Napoleongolf im Viktoriasee.
-* Papyrussümpfe zwischen Entebbe und Fort Portal  (Separatbild)
-* Bei den Sesse-Inseln
-* Ufer des Viktoriasees bei Kampala
-* Botanischer Garten in Entebbe
-* Haus des Gouverneurs in Entebbe
-* Markt in Entebbe
-* Markt in Entebbe
+* [Station der Ugandabahn](ch004.xhtml#b027)
+* [Der Hafen Kilindini in Mombasa](ch004.xhtml#b029)
+* [Portugiesenfort in Mombasa](ch004.xhtml#b031)
+* [Im tropischen Urwald](ch004.xhtml#b032) (Separatbild)
+* [An der Ugandabahn](ch004.xhtml#b033)
+* [Zuckerrohrverkäufer](ch004.xhtml#b034)
+* [Aufenthalt auf einer Station](ch004.xhtml#b035)
+* [Port Florence](ch004.xhtml#b037)
+* [Dampfer Winifred am Molo in Port Florence](ch004.xhtml#b038)
+* [Eingeborene auf dem Wege zum Markte in Kisumu](ch004.xhtml#b039)
+* [Schutzdach auf dem Markt in Kisumu](ch004.xhtml#b040)
+* [Kavirondofrauen](ch004.xhtml#b041)
+* [Markt in Kisumu](ch004.xhtml#b042)
+* [Markt in Kisumu](ch004.xhtml#b043)
+* [Auf dem Markte in Kisumu](ch004.xhtml#b044)
+* [Bananenverkäufer auf dem Markte in Kisumu](ch004.xhtml#b045)
+* [Auf dem Viktoriasee, bei der Insel Rusinga](ch004.xhtml#b046)
+* [Eingeborenenboote mit dem Friedenszeichen](ch004.xhtml#b047)
+* [Napoleongolf im Viktoriasee](ch004.xhtml#b048)
+* [Papyrussümpfe zwischen Entebbe und Fort Portal](ch004.xhtml#b049)  (Separatbild)
+* [Bei den Sesse-Inseln](ch004.xhtml#b050)
+* [Ufer des Viktoriasees bei Kampala](ch004.xhtml#b051)
+* [Botanischer Garten in Entebbe](ch004.xhtml#b052)
+* [Haus des Gouverneurs in Entebbe](ch004.xhtml#b053)
+* [Markt in Entebbe](ch004.xhtml#b054)
+* [Markt in Entebbe](ch004.xhtml#b055)
 * Eingeborenenhütten unter Bananen.
 * Das Gepäck der Expedition auf dem Hofe des Eguatorial Hotel in Entebbe
 * Einer unserer Träger

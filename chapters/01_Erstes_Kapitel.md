@@ -11,7 +11,7 @@ die Gletscher im Grunde des Mobukutals. — Wiederholte Versuche zur Erforschung
 der Gebirgskette auf dem Wege durch das Mobukutal. — Davids Aufstieg über die
 Westabhänge. — Die Expedition des British Museum. — Die ersten erstiegenen
 Gipfel. — A. F. Wollaston. — Stand des Wissens über die Ruwenzorikette zu Beginn
-des Jahres 1906.
+des Jahres 1906.<br /><br />
 ::::
 
 Am 24. Mai 1888 bekam Henry M. Stanley^[^0100]^, als er auf seiner längsten und
