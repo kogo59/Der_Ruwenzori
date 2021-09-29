@@ -714,7 +714,6 @@ Ennis und W. M. Carter, sowie von Major L. C. E. Wyndham. Die Führer wurden im
 „Equatorial Hotel“, das von Herrn Berti, einem Italiener, gehalten wird,
 untergebracht.
 
-
 :::
 
 :::: align-center

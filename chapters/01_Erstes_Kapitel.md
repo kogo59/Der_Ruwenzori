@@ -216,7 +216,7 @@ Monate später brach Emin Pascha an der Spitze einer deutschen Expedition wieder
 auf, um an die äquatorialen Seen zurückzukehren, und Anfang Juni 1891 befand er
 sich von neuem auf dem Westabhange des Ruwenzori, wo er sein Lager in Karevia am
 Issangoflusse, dem südlichen Laufe des Semliki^[^0123]^, aufschlug. Von diesem
-Lagerplatze ans (1330 Meter über dem Meeresspiegel) unternahm Dr. F. Stuhlmann^[^0122]^,
+Lagerplatze aus (1330 Meter über dem Meeresspiegel) unternahm Dr. F. Stuhlmann^[^0122]^,
 einer der Teilnehmer an der Expedition, einen fünftägigen Ausflug bergaufwärts
 durch das Butagutal, eines der größeren Täler, die sich im Westen der Kette
 herabsenken. Er gelangte bis zu 4063 Meter Höhe, wo er in geringer Entfernung
@@ -580,7 +580,7 @@ verschiedenen Gruppen angeordnet sind: man wußte aber nicht, ob diese durch hoh
 Kämme verbunden oder durch tiefe Täler getrennt waren.
 
 In Ermangelung einer systematischen Erforschung war es unmöglich, die
-Beschreibungen der von verschiedenen Punkten ans erblickten Berge miteinander in
+Beschreibungen der von verschiedenen Punkten aus erblickten Berge miteinander in
 Beziehung zu setzen; die Verwirrung infolge der Mannigfaltigkeit der den Bergen
 beigelegten Namen mußte eine vergleichende Zusammenstellung der verschiedenen
 Beobachtungen nur noch mehr erschweren. Im übrigen war es nur sehr wenigen, und

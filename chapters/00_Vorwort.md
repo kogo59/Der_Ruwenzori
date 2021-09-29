@@ -10,7 +10,7 @@ die geographischen und naturwissenschaftlichen Ergebnisse der Expedition bilden.
 
 Da ich nicht über die nötige Muße verfügte, um die Drucklegung dieses
 eingehenden Reiseberichts selbst zu übernehmen, und da es auch meinen
-Reisegefährten ans verschiedenen Gründen nicht möglich war, sich damit zu
+Reisegefährten aus verschiedenen Gründen nicht möglich war, sich damit zu
 befassen, bat ich Herrn Dr. F. De Filippi, der sich schon bei einer meiner
 früheren Reisen, an der er teilgenommen hatte, als gewissenhafter Erzähler
 erwiesen hatte, auf Grund meiner eigenen und meiner Gefährten Aufzeichnungen die
@@ -82,48 +82,48 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Haus des Gouverneurs in Entebbe](ch004.xhtml#b053)
 * [Markt in Entebbe](ch004.xhtml#b054)
 * [Markt in Entebbe](ch004.xhtml#b055)
-* Eingeborenenhütten unter Bananen.
-* Das Gepäck der Expedition auf dem Hofe des Eguatorial Hotel in Entebbe
-* Einer unserer Träger
-* Entebbe
-* Markthütte in Entebbe
-* Straße nach Kampala
-* Eingeborenenhütten in Entebbe
-* Vogelnester an Palmwedeln
-* Hochebene zwischen Entebbe und Fort Portal (Separatbild)
-* Straße in Uganda
-* Eingeborenenhütte
-* Auf dem Wege über die Höhen zwischen Entebbe und Fort Portal
-* Weg durch einen Sumpf
-* Papyrusstauden und Seerosen.
-* Elefantengras
-* Bewaldete Talsenke zwischen Entebbe und Fort Portal
-* Auf dem Wege über einen Höhenrücken
-* Tropenwald
-* Zwischen Papyrusstauden
-* Bananenpflanzung
-* Wasserfall bei Bnamba im Mobukutal (Separatbild)
-* Wagandaweiber auf dem Wege zum Markte
-* Waganda
-* Wagandaweiber
-* Melonenbaum (Carica Papaya)
-* Hütten der Träger
-* Bau einer Hütte
-* Urwald bei Fort Portal
-* Besuch eines Häuptlings mit seinem Gefolge.
-* Ringkampf der Träger.
-* Tanz im Lager.
-* Musikkapelle
-* Zwischen Entebbe und Fort Portal
-* Lager in Bujongo
-* Unsere Bakonjoträher (Separatbild)
-* Lager in Katende
-* Fernaufnahme des Ruwenzori von Butiti aus
-* Lager in Butiti, mit dem Ruwenzori im Hintergrund
-* Wald zwischen Butiti und Fort Portal
-* Der Ruwenzori in 70 Kilometer Entfernung von Kaibo aus gesehen
-* Die Karawane auf dem Marsche
-* Am Urwalddach
+* [Eingeborenenhütten unter Bananen](ch004.xhtml#b056)
+* [Das Gepäck der Expedition auf dem Hofe des Equatorial Hotel in Entebbe](ch004.xhtml#b057)
+* [Einer unserer Träger](ch004.xhtml#b058)
+* [Entebbe](ch005.xhtml#b060)
+* [Markthütte in Entebbe](ch005.xhtml#b061)
+* [Straße nach Kampala](ch005.xhtml#b062)
+* [Eingeborenenhütten in Entebbe](ch005.xhtml#b063)
+* [Vogelnester an Palmwedeln](ch005.xhtml#b064)
+* [Hochebene zwischen Entebbe und Fort Portal](ch005.xhtml#b065) (Separatbild)
+* [Straße in Uganda](ch005.xhtml#b065a)
+* [Eingeborenenhütte](ch005.xhtml#b066)
+* [Auf dem Wege über die Höhen zwischen Entebbe und Fort Portal](ch005.xhtml#b067)
+* [Weg durch einen Sumpf](ch005.xhtml#b069)
+* [Papyrusstauden und Seerosen](ch005.xhtml#b071)
+* [Elefantengras](ch005.xhtml#b072)
+* [Bewaldete Talsenke zwischen Entebbe und Fort Portal](ch005.xhtml#b073)
+* [Auf dem Wege über einen Höhenrücken](ch005.xhtml#b076)
+* [Tropenwald](ch005.xhtml#b077)
+* [Zwischen Papyrusstauden](ch005.xhtml#b078)
+* [Bananenpflanzung](ch005.xhtml#b079)
+* [Wasserfall bei Buamba im Mobukutal](ch005.xhtml#b080) (Separatbild)
+* [Wagandaweiber auf dem Wege zum Markte](ch005.xhtml#b081)
+* [Waganda](ch005.xhtml#b082)
+* [Wagandaweiber](ch005.xhtml#b084)
+* [Melonenbaum (Carica Papaya)](ch005.xhtml#b085)
+* [Hütten der Träger](ch005.xhtml#b086)
+* [Bau einer Hütte](ch005.xhtml#b087)
+* [Urwald bei Fort Portal](ch005.xhtml#b088)
+* [Besuch eines Häuptlings mit seinem Gefolge](ch005.xhtml#b091)
+* [Ringkampf der Träger](ch005.xhtml#b092)
+* [Tanz im Lager](ch005.xhtml#b093)
+* [Musikkapelle](ch005.xhtml#b094)
+* [Zwischen Entebbe und Fort Portal](ch005.xhtml#b095)
+* [Lager in Bujongo](ch005.xhtml#b096)
+* [Unsere Bakonjoträger](ch005.xhtml#b097) (Separatbild)
+* [Lager in Katende](ch005.xhtml#b098)
+* [Fernaufnahme des Ruwenzori von Butiti aus](ch005.xhtml#b099)
+* [Lager in Butiti, mit dem Ruwenzori im Hintergrund](ch005.xhtml#b100)
+* [Wald zwischen Butiti und Fort Portal](ch005.xhtml#b101)
+* [Der Ruwenzori in 70 Kilometer Entfernung von Kaibo aus gesehen](ch005.xhtml#b103)
+* [Die Karawane auf dem Marsche](ch005.xhtml#b105)
+* [Am Urwaldbach](ch005.xhtml#b107)
 * Auf dem Hauptplatz von Fort Portal
 * Fort Portal
 * Markt in Fort Portal
