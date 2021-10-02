@@ -124,34 +124,34 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Der Ruwenzori in 70 Kilometer Entfernung von Kaibo aus gesehen](ch005.xhtml#b103)
 * [Die Karawane auf dem Marsche](ch005.xhtml#b105)
 * [Am Urwaldbach](ch005.xhtml#b107)
-* Auf dem Hauptplatz von Fort Portal
-* Fort Portal
-* Markt in Fort Portal
-* Das Blütenfeld von Buamba (Separatbild)
-* Eingeborenenhütte
-* König Kasagama mit Hofstaat
-* Höhen um Fort Portal
-* Eingeborene bei Fort Portal
-* Weiber beim Lager von Duwona
-* Akazie auf denn Wege von Duwona nach Kasongo
-* Zwischen Duwona und Kasongo
-* Passierung des Wimi.
-* Die Firngipfel im Hintergrunde des Himatals
-* Der Speke (Johnstons Duwoni) vom unteren Mobukutale aus
-* Übergang über den Mobutu
-* Passierung des Mobutu
-* Ibanda
-* Bau von Schutzdächern in Ibanda
-* Oberes Ende des Mobukutals  (Separatbild)
-* Portalspitzen von Bihunga aus
-* Abhang unterhalb Bihunga
-* Bihunga
-* Im Walde oberhalb Bihunga
-* Wald an der Mündung des Mahoma
-* Lager in Nakitawa
-* Baumfarn
-* Kichuchu
-* Lobelia Stuhlmanni in voller Blütenentwicklung  (Separatbild)
+* [Auf dem Hauptplatz von Fort Portal](ch006.xhtml#b110)
+* [Fort Portal](ch006.xhtml#b111)
+* [Markt in Fort Portal](ch006.xhtml#b112)
+* [Das Blütenfeld von Buamba](ch006.xhtml#b113) (Separatbild)
+* [Eingeborenenhütte](ch006.xhtml#b113a)
+* [König Kasagama mit Hofstaat](ch006.xhtml#b114)
+* [Höhen um Fort Portal](ch006.xhtml#b115)
+* [Eingeborene bei Fort Portal](ch006.xhtml#b116)
+* [Weiber beim Lager von Duwona](ch006.xhtml#b117)
+* [Akazie auf denn Wege von Duwona nach Kasongo](ch006.xhtml#b118)
+* [Zwischen Duwona und Kasongo](ch006.xhtml#b119)
+* [Passierung des Wimi](ch006.xhtml#b121)
+* [Die Firngipfel im Hintergrunde des Himatals](ch006.xhtml#b123)
+* [Der Speke (Johnstons Duwoni) vom unteren Mobukutale aus](ch006.xhtml#b124)
+* [Übergang über den Mobuku](ch006.xhtml#b125)
+* [Passierung des Mobuku](ch006.xhtml#b126)
+* [Ibanda](ch006.xhtml#b127)
+* [Bau von Schutzdächern in Ibanda](ch006.xhtml#b128)
+* [Oberes Ende des Mobukutals](ch006.xhtml#b129)  (Separatbild)
+* [Portalspitzen von Bihunga aus](ch006.xhtml#b129a)
+* [Abhang unterhalb Bihunga](ch006.xhtml#b130)
+* [Bihunga](ch006.xhtml#b131)
+* [Im Walde oberhalb Bihunga](ch006.xhtml#b132)
+* [Wald an der Mündung des Mahoma](ch006.xhtml#b133)
+* [Lager in Nakitawa](ch006.xhtml#b134)
+* [Baumfarn](ch006.xhtml#b137)
+* [Kichuchu](ch006.xhtml#b141)
+* [Lobelia Stuhlmanni in voller Blütenentwicklung](ch006.xhtml#b144)  (Separatbild)
 * Lobelien im Erikawald
 * Erikazeenwald
 * Unsere Träger auf dem Marsche.

@@ -1,6 +1,5 @@
 # Drittes Kapitel.<br />**Von Entebbe bis Fort Portal.** {#drei .unnumbered}
 
-
 ::: justified
 
 :::: { .fs-xxs  }
@@ -828,7 +827,7 @@ allmählich in die dunstige Atmosphäre über und verlor sich am Fuße der mäch
 Vorberge der Kette.
 
 :::: {.wrap-80  }
-![Die Karawane auf dem Marsche.](Der_Ruwenzori_105.jpg "WDie Karawane auf dem Marsche."){#b105}
+![Die Karawane auf dem Marsche.](Der_Ruwenzori_105.jpg "Die Karawane auf dem Marsche."){#b105}
 ::::
 
 Moore war durch das Land an den Anblick der Alpen erinnert worden, wie er sich
