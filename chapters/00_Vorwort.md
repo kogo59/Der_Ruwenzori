@@ -152,18 +152,18 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Baumfarn](ch006.xhtml#b137)
 * [Kichuchu](ch006.xhtml#b141)
 * [Lobelia Stuhlmanni in voller Blütenentwicklung](ch006.xhtml#b144)  (Separatbild)
-* Lobelien im Erikawald
-* Erikazeenwald
-* Unsere Träger auf dem Marsche.
-* Am schützenden Felsen von Bujongolo
-* Unser Lager in Bujongolo
-* Johnstons Kiyanja von Bujongolo aus
-* Panorama vom Grauerfels des Bakers (Separatbild)
-* Panorama der Stairsspitze des Ludwig von Savoyen (Separatbild)
-* Östlicher Teil des Baker von der Eduardspitze
-* Der Baker (Johnstons Kiyanja) von Westen
-* Erikazeen unterhalb Bujongolo
-* Der Cagniberg von Bujongolo aus
+* [Lobelien im Erikawald](ch007.xhtml#b149)
+* [Erikazeenwald](ch007.xhtml#b151)
+* [Unsere Träger auf dem Marsche](ch007.xhtml#b153)
+* [Am schützenden Felsen von Bujongolo](ch007.xhtml#b155)
+* [Unser Lager in Bujongolo](ch007.xhtml#b156)
+* [Johnstons Kiyanja von Bujongolo aus](ch007.xhtml#b159)
+* [Panorama vom Grauerfels des Bakers](ch007.xhtml#b160a) (Separatbild)
+* [Panorama der Stairsspitze des Ludwig von Savoyen](ch007.xhtml#b160b) (Separatbild)
+* [Östlicher Teil des Baker von der Eduardspitze](ch007.xhtml#b161)
+* [Der Baker (Johnstons Kiyanja) von Westen](ch007.xhtml#b163)
+* [Erikazeen unterhalb Bujongolo](ch007.xhtml#b165)
+* [Der Cagniberg von Bujongolo aus](ch007.xhtml#b166)
 * See im Westen des Baker. Im Vordergrund Stümpfe verbrannter Senecien
 * Alexandra- und Margheritaspitze
 * Marsch durch einen Senecienwald
