@@ -164,25 +164,25 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Der Baker (Johnstons Kiyanja) von Westen](ch007.xhtml#b163)
 * [Erikazeen unterhalb Bujongolo](ch007.xhtml#b165)
 * [Der Cagniberg von Bujongolo aus](ch007.xhtml#b166)
-* See im Westen des Baker. Im Vordergrund Stümpfe verbrannter Senecien
-* Alexandra- und Margheritaspitze
-* Marsch durch einen Senecienwald
-* Der obere See im Tale westlich des Baker
-* Tal im Westen des Baker (Separatbild)
-* Oberer Teil des Seentals westlich vom Baker
-* Lager IV beim Helenagletscher
-* Alexandra- und Margheritaspitze vom Stanleygletscher ..
-* Aufstieg auf den Südostkamm der Alexandraspitze
-* Aufstieg zur Alexandraspitze
-* Die höchsten Spitzen des Ruwenzori  (Separatbild)
-* Helena- und Savoyenspitze vom Stanleygletscher
-* Helena- und Savoyenspitze vom Kamme oberhalb Lager IV
-* Lager beim Scott-Elliotsattel
-* Ludwig von Savoyen mit der Stairsspitze vom Südkamm der Eduardspitze
-* Ludwig von Savoyen mit Sellaspitze und Weismannspitze vom Südkamm der Eduardspitze
-* Die Nordwestflanke der Margheritaspitze
-* Aussicht auf die Margheritaspitze von der Alexandraspitze aus  (Separatbild)
-* Der Stanley von der Eduardspitze des Baker aus
+* [See im Westen des Baker. Im Vordergrund Stümpfe verbrannter Senecien](ch008.xhtml#b174)
+* [Alexandra- und Margheritaspitze](ch008.xhtml#b177)
+* [Marsch durch einen Senecienwald](ch008.xhtml#b178)
+* [Der obere See im Tale westlich des Baker](ch008.xhtml#b183)
+* [Tal im Westen des Baker](ch008.xhtml#b184) (Separatbild)
+* [Oberer Teil des Seentals westlich vom Baker](ch008.xhtml#b185)
+* [Lager IV beim Helenagletscher](ch008.xhtml#b187)
+* [Alexandra- und Margheritaspitze vom Stanleygletscher](ch008.xhtml#b188)
+* [Aufstieg auf den Südostkamm der Alexandraspitze](ch008.xhtml#b189)
+* [Aufstieg zur Alexandraspitze](ch008.xhtml#b191)
+* [Die höchsten Spitzen des Ruwenzori](ch008.xhtml#b192)  (Separatbild)
+* [Helena- und Savoyenspitze vom Stanleygletscher](ch008.xhtml#b193)
+* [Helena- und Savoyenspitze vom Kamme oberhalb Lager IV](ch008.xhtml#b195)
+* [Lager beim Scott-Elliotsattel](ch008.xhtml#b197)
+* [Ludwig von Savoyen mit der Stairsspitze vom Südkamm der Eduardspitze](ch008.xhtml#b198)
+* [Ludwig von Savoyen mit Sellaspitze und Weismannspitze vom Südkamm der Eduardspitze](ch008.xhtml#b199)
+* [Die Nordwestflanke der Margheritaspitze](ch008.xhtml#b200)
+* [Aussicht auf die Margheritaspitze von der Alexandraspitze aus](ch008.xhtml#b201) (Separatbild)
+* [Der Stanley von der Eduardspitze des Baker aus](ch008.xhtml#b202)
 * Lobelien
 * Blick auf die Alexandraspitze von der Moebiusspitze aus  (Separatbild)
 * Stanley aus Westen (nach einer von Dr. Stuhlmann im oberen Butagutal aufgenommenen Photographie.
