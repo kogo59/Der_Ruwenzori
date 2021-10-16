@@ -1,4 +1,4 @@
-# Auf verbotenen Wegen in Tibet.
+# Der Ruwenzori.
 
 This is a git repository of the source files for the book "Der Ruwenzori."
 

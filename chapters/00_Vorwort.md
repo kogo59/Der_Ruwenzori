@@ -183,21 +183,21 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Die Nordwestflanke der Margheritaspitze](ch008.xhtml#b200)
 * [Aussicht auf die Margheritaspitze von der Alexandraspitze aus](ch008.xhtml#b201) (Separatbild)
 * [Der Stanley von der Eduardspitze des Baker aus](ch008.xhtml#b202)
-* Lobelien
-* Blick auf die Alexandraspitze von der Moebiusspitze aus  (Separatbild)
-* Stanley aus Westen (nach einer von Dr. Stuhlmann im oberen Butagutal aufgenommenen Photographie.
-* Westwand der Alexandraspitze
-* Moebiusspitze von Westen
-* Ende der von der Alexandra- und Moebiusspitze nach Westen gerichteten Gletscher
-* Der Ludwig von Savoyen aus dem oberen Butagutal (Photographie von Dr. Stuhlmann)
-* Senecienwald im Westen des Freshfieldsattels, mit der Savoyenspitze im Hintergrund (Separatbild)
-* Die Spitzen Savoyen, Helena und Moebius und der Ludwig von Savoyen vom Südostkamm der Alexandraspitze
-* Senecio und Helichrysum im oberen Bujukutal
-* Die Ruwenzorikette von Butiti aus gesehen
-* Lobelia Deckeni, Senecien und Erikazeen
-* Senecio und Lobelia Stuhlimanni
-* Der Speke vom Fuße des Scott-Elliotsattels aus gesehen   (Separatbild)
-* Lichtung im Erikazeenwald
+* [Lobelien](ch009.xhtml#b207)
+* [Blick auf die Alexandraspitze von der Moebiusspitze aus](ch009.xhtml#b208) (Separatbild)
+* [Stanley aus Westen (nach einer von Dr. Stuhlmann im oberen Butagutal aufgenommenen Photographie)](ch009.xhtml#b209)
+* [Westwand der Alexandraspitze](ch009.xhtml#b211)
+* [Moebiusspitze von Westen](ch009.xhtml#b212)
+* [Ende der von der Alexandra- und Moebiusspitze nach Westen gerichteten Gletscher](ch009.xhtml#b213)
+* [Der Ludwig von Savoyen aus dem oberen Butagutal (Photographie von Dr. Stuhlmann)](ch009.xhtml#b215)
+* [Senecienwald im Westen des Freshfieldsattels, mit der Savoyenspitze im Hintergrund](ch009.xhtml#b216) (Separatbild)
+* [Die Spitzen Savoyen, Helena und Moebius und der Ludwig von Savoyen vom Südostkamm der Alexandraspitze](ch009.xhtml#b217)
+* [Senecio und Helichrysum im oberen Bujukutal](ch009.xhtml#b223)
+* [Die Ruwenzorikette von Butiti aus gesehen](ch009.xhtml#b226)
+* [Lobelia Deckeni, Senecien und Erikazeen](ch009.xhtml#b227)
+* [Senecio und Lobelia Stuhlimanni](ch009.xhtml#b230)
+* [Der Speke vom Fuße des Scott-Elliotsattels aus gesehen](ch009.xhtml#b232) (Separatbild)
+* [Lichtung im Erikazeenwald](ch009.xhtml#b240)
 * Blick ins Bujukutal
 * Lager IV beim Helenagletscher
 * Der Speke, von der Eduardspitze des Baker aus gesehen  (Separatbild)
@@ -235,7 +235,7 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * Zu Uganda
 
 ## Karten.
-* Lageskizze der Ruwenzorikette. Maßstab 1:1000 000
+* [Lageskizze der Ruwenzorikette](ch009.xhtml#b203) Maßstab 1:1000 000
 * Triangulationsnetz für die Ruwenzorikette. Maßstab 1:80000
 * Profil der Reiseroute.
 * Topographische und geologische Karte der Ruwenzorikette auf Grund der Aufnahmen der Expedition des Herzogs der Abruzzen. Maßstab 1:40000.
