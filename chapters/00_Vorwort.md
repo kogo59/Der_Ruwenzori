@@ -198,12 +198,12 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Senecio und Lobelia Stuhlimanni](ch009.xhtml#b230)
 * [Der Speke vom Fuße des Scott-Elliotsattels aus gesehen](ch009.xhtml#b232) (Separatbild)
 * [Lichtung im Erikazeenwald](ch009.xhtml#b240)
-* Blick ins Bujukutal
-* Lager IV beim Helenagletscher
-* Der Speke, von der Eduardspitze des Baker aus gesehen  (Separatbild)
-* Spekeberg vom Stanleygletscher
-* Emin vom Jolandagletscher
-* Im Lager
+* [Blick ins Bujukutal](ch010.xhtml#b243)
+* [Lager IV beim Helenagletscher](ch010.xhtml#b247)
+* [Der Speke, von der Eduardspitze des Baker aus gesehen](ch010.xhtml#b248)  (Separatbild)
+* [Spekeberg vom Stanleygletscher](ch010.xhtml#b251)
+* [Emin vom Jolandagletscher](ch010.xhtml#b253)
+* [Im Lager](ch010.xhtml#b255)
 * Aufstieg zur Alexandraspitze
 * Moebiusspitze vom südöstlichen Kamm der Alexandraspitze
 * Der Stanley (Separatbild)
