@@ -204,16 +204,16 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Spekeberg vom Stanleygletscher](ch010.xhtml#b251)
 * [Emin vom Jolandagletscher](ch010.xhtml#b253)
 * [Im Lager](ch010.xhtml#b255)
-* Aufstieg zur Alexandraspitze
-* Moebiusspitze vom südöstlichen Kamm der Alexandraspitze
-* Der Stanley (Separatbild)
-* Neuschnee auf dem Freshfieldsattel
-* Der Stanley vom Freshfieldsattel
-* Der Cagui
-* Ludwig von Savoyen vom Freshfieldsattel
-* Stanley und Baker von der Stairsspitze des Ludwig von Savoyen aus (Separatbild)
-* Südkamm des Baker und Lager beim Freshyfieldsattel
-* Bujugolo
+* [Aufstieg zur Alexandraspitze](ch011.xhtml#b259)
+* [Moebiusspitze vom südöstlichen Kamm der Alexandraspitze](ch011.xhtml#b260a)
+* [Der Stanley](ch011.xhtml#b260) (Separatbild)
+* [Neuschnee auf dem Freshfieldsattel](ch011.xhtml#b261)
+* [Der Stanley vom Freshfieldsattel](ch011.xhtml#b266)
+* [Der Cagni](ch011.xhtml#b268)
+* [Ludwig von Savoyen vom Freshfieldsattel](ch011.xhtml#b271)
+* [Stanley und Baker von der Stairsspitze des Ludwig von Savoyen aus](ch011.xhtml#b272) (Separatbild)
+* [Südkamm des Baker und Lager beim Freshfieldsattel](ch011.xhtml#b273)
+* [Bujongolo](ch011.xhtml#b275)
 * Die Träger in Ibanda
 * Der Mobukufluß im Erikazeenwald
 * Bujukutal
