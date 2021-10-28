@@ -214,25 +214,25 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 * [Stanley und Baker von der Stairsspitze des Ludwig von Savoyen aus](ch011.xhtml#b272) (Separatbild)
 * [Südkamm des Baker und Lager beim Freshfieldsattel](ch011.xhtml#b273)
 * [Bujongolo](ch011.xhtml#b275)
-* Die Träger in Ibanda
-* Der Mobukufluß im Erikazeenwald
-* Bujukutal
-* Lager IX am Zusammenflusse des Migusi und des Bujutu
-* Ludwig von Savoyen, von der Eduardspitze des Baker aus gesehen (Panorama) (Separatbild)
-* Panorama der Jolandaspitze des Gessi (Separatbild)
-* Gessi von der Edaardspitze des Baker aus
-* Bujukufluß beim Zusammenfluß mit dem Mauureggio.
-* Riesenbaum im unteren Bujukutal
-* Die Expedition wieder in Ibanda
-* Wagandadorf
-* Kratersee Kaitabaroga bei Fort Portal
-* Die Expedition bei der Rückkehr an den Viktoriasee
-* Die Riponfälle
-* Einer unserer Träger
-* Der Viktorianil an seinem Ursprung.
-* In einem Wagandadorf
-* Bujukutal (Separatbild)
-* Zu Uganda
+* [Die Träger in Ibanda](ch012.xhtml#b278)
+* [Der Mobukufluß im Erikazeenwald](ch012.xhtml#b279)
+* [Bujukutal](ch012.xhtml#b281)
+* [Lager IX am Zusammenflusse des Migusi und des Bujuku](ch012.xhtml#b283)
+* [Ludwig von Savoyen, von der Eduardspitze des Baker aus gesehen (Panorama)](ch012.xhtml#b284a) (Separatbild)
+* [Panorama der Jolandaspitze des Gessi](ch012.xhtml#b284b) (Separatbild)
+* [Gessi von der Eduardspitze des Baker aus](ch012.xhtml#b285)
+* [Bujukufluß beim Zusammenfluß mit dem Manureggio](ch012.xhtml#b286)
+* [Riesenbaum im unteren Bujukutal](ch012.xhtml#b290)
+* [Die Expedition wieder in Ibanda](ch012.xhtml#b291)
+* [Wagandadorf](ch012.xhtml#b292)
+* [Kratersee Kaitabaroga bei Fort Portal](ch012.xhtml#b293)
+* [Die Expedition bei der Rückkehr an den Viktoriasee](ch012.xhtml#b295)
+* [Die Riponfälle](ch012.xhtml#b296)
+* [Einer unserer Träger](ch012.xhtml#b302)
+* [Der Viktorianil an seinem Ursprung](ch012.xhtml#b303)
+* [In einem Wagandadorf](ch012.xhtml#b304)
+* [Bujukutal](ch012.xhtml#b305) (Separatbild)
+* [Zu Uganda](ch012.xhtml#b306)
 
 ## Karten.
 * [Lageskizze der Ruwenzorikette](ch009.xhtml#b203) Maßstab 1:1000 000

@@ -726,7 +726,7 @@ untergebracht.
 
 [^0201]: [*Umberto Cagni*: vergleiche [Umberto Cagni](https://de.wikipedia.org/wiki/Umberto_Cagni)]{.footnote}
 
-[^0202]: [*Vittorio Sella*: vergleiche [Vittorio Sella](h[^0212]ttps://de.wikipedia.org/wiki/Vittorio_Sella)]{.footnote}
+[^0202]: [*Vittorio Sella*: vergleiche [Vittorio Sella](https://de.wikipedia.org/wiki/Vittorio_Sella)]{.footnote}
 
 [^0203]: [*Sankt-Eliasberg*: vergleiche [Mount Saint Elias](https://de.wikipedia.org/wiki/Mount_Saint_Elias)]{.footnote}
 
