@@ -14,7 +14,7 @@ Gipfel. — A. F. Wollaston. — Stand des Wissens über die Ruwenzorikette zu B
 des Jahres 1906.<br /><br />
 ::::
 
-Am 24. Mai 1888 bekam Henry M. Stanley^[^0100]^, als er auf seiner längsten und
+**A**m 24. Mai 1888 bekam Henry M. Stanley^[^0100]^, als er auf seiner längsten und
 abenteuerreichsten Afrikareise die schmale Uferstrecke am Westufer des
 Albertsees^[^0101]^ durchzog, zwischen Nsabe und Badsua zum erstenmal die schneebedeckten
 Gipfel des Ruwenzori^[^0102]^ zu Gesicht.
