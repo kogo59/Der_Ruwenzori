@@ -236,6 +236,6 @@ Ergebnissen“ ausführlich beschrieben haben, spreche ich den wärmsten Dank au
 
 ## Karten.
 * [Lageskizze der Ruwenzorikette](ch009.xhtml#b203) Maßstab 1:1000 000
-* Triangulationsnetz für die Ruwenzorikette. Maßstab 1:80000
-* Profil der Reiseroute.
-* Topographische und geologische Karte der Ruwenzorikette auf Grund der Aufnahmen der Expedition des Herzogs der Abruzzen. Maßstab 1:40000.
+* [Triangulationsnetz für die Ruwenzorikette.](ch013.xhtml#b388) Maßstab 1:80000
+* [Profil der Reiseroute.](ch013.xhtml#b389)
+* [Topographische und geologische Karte der Ruwenzorikette auf Grund der Aufnahmen der Expedition des Herzogs der Abruzzen.](ch013.xhtml#b390) Maßstab 1:40000.
