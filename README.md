@@ -20,3 +20,8 @@ before January 1, 1925.
 
 # Sources
 Der Ruwenzori. [archive.org](https://archive.org/details/ruwenzorierforschu00savo/page/n9/mode/2up)
+
+# ePUB
+
+Der Ruwenzori. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=342700)
+
