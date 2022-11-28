@@ -10,6 +10,10 @@ Author:
 
 
 # Licenses
+The author died in 1933 so this work is in the public domain in its country of
+origin and other countries and areas where the copyright term is the author's life
+plus 80 years or fewer.
+
 This work is in the public domain in the United States because it was
 published (or registered with the U.S. Copyright Office)
 before January 1, 1925.
@@ -22,8 +26,4 @@ before January 1, 1925.
 
 # Sources
 Der Ruwenzori. [archive.org](https://archive.org/details/ruwenzorierforschu00savo/page/n9/mode/2up)
-
-# ePUB
-
-Der Ruwenzori. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=342700)
 
