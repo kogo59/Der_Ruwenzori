@@ -398,8 +398,3 @@ Ibanda wurde somit der allgemeine Sammelpunkt der Karawane.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

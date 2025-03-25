@@ -740,10 +740,5 @@ persönliche Mitwirkung zu dem guten Erfolge der Expedition beizutragen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Ibanda*: vergleiche [Ibanda](https://de.wikipedia.org/wiki/Ibanda)]{.footnote}

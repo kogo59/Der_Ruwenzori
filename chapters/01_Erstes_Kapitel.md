@@ -620,11 +620,6 @@ konnten, geeignet, mich anzuspornen und in Spannung zu erhalten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Henry M. Stanley*: vergleiche [Henry Morton Stanley](https://de.wikipedia.org/wiki/Henry_Morton_Stanley)]{.footnote}
 

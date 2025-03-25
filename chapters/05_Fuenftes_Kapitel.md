@@ -528,11 +528,6 @@ und Roccati hatten sich gerade an jenem Morgen auf den Weg gemacht, um auf den
 südlich des Kiyanja gelegenen Sattel zu steigen.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Stanleyberg*: vergleiche [Mount Stanley](https://de.wikipedia.org/wiki/Mount_Stanley_(Ruwenzori))]{.footnote}
 

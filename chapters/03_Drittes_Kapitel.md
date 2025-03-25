@@ -907,11 +907,6 @@ Ebene angewiesen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Entebbe*: vergleiche [Entebbe](https://de.wikipedia.org/wiki/Entebbe)]{.footnote}
 

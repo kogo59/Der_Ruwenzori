@@ -601,10 +601,5 @@ vergönnt gewesen, die Erfüllung seines Wunsches zu erleben.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1000]: [*Riponfälle*: vergleiche [Ripon Falls](https://de.wikipedia.org/wiki/Ripon_Falls)]{.footnote}

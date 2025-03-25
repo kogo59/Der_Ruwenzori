@@ -885,13 +885,6 @@ interessante Arten umfaßt.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0700]: [*Naiwaschasee*: vergleiche [Naivashasee](https://de.wikipedia.org/wiki/Naivashasee)]{.footnote}
 
 [^0701]: [*Uganda-Eisenbahn*: vergleiche [Uganda-Bahn](https://de.wikipedia.org/wiki/Uganda-Bahn)]{.footnote}

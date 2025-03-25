@@ -331,9 +331,3 @@ Teilen vollständig klargelegt werde.
 
 :::
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

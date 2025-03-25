@@ -567,10 +567,4 @@ Savoyengipfel gegen den Himmel abzeichnete.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0600]: [*Margherita und Alexandra*: vergleiche [Margherita Peak](https://de.wikipedia.org/wiki/Margherita_Peak)]{.footnote}

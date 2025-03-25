@@ -716,12 +716,6 @@ untergebracht.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0200]: [*William Garstin*: vergleiche [William Edmund Garstin](https://de.wikipedia.org/wiki/William_Edmund_Garstin)]{.footnote}
 
 [^0201]: [*Umberto Cagni*: vergleiche [Umberto Cagni](https://de.wikipedia.org/wiki/Umberto_Cagni)]{.footnote}

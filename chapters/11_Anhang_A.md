@@ -560,9 +560,6 @@ Längenausdehnung von 50 Kilometer.“
 ![](Der_Ruwenzori_390.jpg ""){#b390}
 ::::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1100]: [*Claudius Ptolemaios*: vergleiche [Claudius Ptolemäus](https://de.wikipedia.org/wiki/Claudius_Ptolem%C3%A4us)]{.footnote}
 
 [^1101]: [*Cooley*: vergleiche [William Desborough Cooley](https://en.wikipedia.org/wiki/William_Desborough_Cooley)]{.footnote}
