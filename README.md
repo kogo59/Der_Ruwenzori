@@ -1,6 +1,6 @@
 # Der Ruwenzori.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/193418456-b77af5b9-2837-4ed9-98e8-ec8ec2fd2a8e.jpg">
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/13177792/193418456-b77af5b9-2837-4ed9-98e8-ec8ec2fd2a8e.jpg">
 
 This is a git repository of the source files for the book "Der Ruwenzori."
 
