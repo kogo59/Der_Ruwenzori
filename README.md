@@ -7,10 +7,10 @@ This is a git repository of the source files for the book "Der Ruwenzori."
 Author:
 
 * [Prince Luigi Amedeo, Duke of the Abruzzi](https://en.wikipedia.org/wiki/Prince_Luigi_Amedeo,_Duke_of_the_Abruzzi) (1873—1933)
-
+* [Vittorio Sella](https://en.wikipedia.org/wiki/Vittorio_Sella) (1859—1943)
 
 # Licenses
-The author died in 1933 so this work is in the public domain in its country of
+The author died in 1933,1943 so this work is in the public domain in its country of
 origin and other countries and areas where the copyright term is the author's life
 plus 80 years or fewer.
 
