@@ -10,7 +10,7 @@ Author:
 * [Vittorio Sella](https://en.wikipedia.org/wiki/Vittorio_Sella) (1859—1943)
 
 # Licenses
-The author died in 1933,1943 so this work is in the public domain in its country of
+The authors died in 1933,1943 so this work is in the public domain in its country of
 origin and other countries and areas where the copyright term is the author's life
 plus 80 years or fewer.
 
